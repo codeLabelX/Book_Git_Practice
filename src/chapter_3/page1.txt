@@ -4,3 +4,7 @@ Hello, new Day
 working on chapter 3
 
  page 1
+ 
+ new text for this page, working in day 3 
+ 
+ 
